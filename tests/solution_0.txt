@@ -1,0 +1,15 @@
+---
+living room, office
+kitchen, laundry room, mudroom
+---
+Start, 1, 4, 6, 9, Exit
+---
+Store, Coffee, Friend
+---
+quest_1, quest_2, quest_3, quest_6
+quest_1, quest_2, quest_4, quest_5, quest_6
+quest_1, quest_2, quest_4, quest_5, quest_7
+quest_1, quest_2, quest_4, quest_7
+---
+6, Poëlitetz, Vervold, Twitten's Cross, Bulmer Skeme, Arquensio, Domreis
+---
