@@ -1,4 +1,4 @@
-library,school,home,post office,doctor,mechanic,work,vet,coffee,store,bank,friend
+Library,School,Home,Post Office,Doctor,Mechanic,Work,Vet,Coffee,Store,Bank,Friend
 0,1,0,0,0,0,0,0,0,0,0,0
 0,0,1,1,1,0,0,0,0,0,0,0
 0,0,0,0,0,1,0,0,0,0,0,0
